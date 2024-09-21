@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "196520314063",
+    "firebase_url": "https://hackcelestial-2024-default-rtdb.firebaseio.com",
+    "project_id": "hackcelestial-2024",
+    "storage_bucket": "hackcelestial-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196520314063:android:fcffbdaa11b2b26fcce3ba",
+        "android_client_info": {
+          "package_name": "com.example.hackcelestial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3U4rsGLJiZLbK2-80xc3P2JL7sgX8WIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
